@@ -2,9 +2,6 @@
     alt="spydiscord"/> 
   </p
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/972636327365451796)](https://discord.com/users/972636327365451796)
-
-
 
 
 
