@@ -2,6 +2,12 @@
     alt="spydiscord"/> 
   </p
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/972636327365451796)](https://discord.com/users/972636327365451796)
+
+
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </a> <a href="https://www.w3schools.com/css/" target="_blank"
