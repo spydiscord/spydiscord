@@ -20,7 +20,7 @@ Languages and Tools:
 </p>
    
 
-Profile Views:
+Profile statistics:
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=spydiscord">
 </a>
