@@ -9,7 +9,7 @@
 
 
 Languages and Tools:
-<p align="left"> 
+<p align="center"> 
     <a href="https://www.java.com" target="_blank"> 
     <a href="https://reactjs.org/" target="_blank"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
