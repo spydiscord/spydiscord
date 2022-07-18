@@ -3,7 +3,7 @@
 <a href="https://discord.gg/5dZPVytKnn">
     <h3 align="center">
         <img src="" width="280"><br>
-        Software Developers Community
+        Node JS Developer
     </h3>
 </a>
 
