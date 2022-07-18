@@ -15,5 +15,6 @@
       alt="html5" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
     rel="noreferrer"> <img
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+   src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" alt="python"
       width="40" height="40" /> </a> </p>
 
