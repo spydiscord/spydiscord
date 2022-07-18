@@ -1,5 +1,12 @@
 
 
+<a href="https://discord.gg/5dZPVytKnn">
+    <h3 align="center">
+        <img src="" width="280"><br>
+        Software Developers Community
+    </h3>
+</a>
+
 
 ## Languages and Tools:
 <p align="left"> 
