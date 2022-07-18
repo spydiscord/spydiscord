@@ -16,5 +16,8 @@
     rel="noreferrer"> <img
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
    src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" alt="node"
+ 
       width="40" height="40" /> </a> </p>
+      
+      <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
 
