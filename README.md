@@ -2,7 +2,7 @@
 
 <a href="https://discord.gg/5dZPVytKnn">
     <h3 align="center">
-        <img src="" width="280"><br>
+        <img src="https://cdn.discordapp.com/attachments/998276384839454720/998410375500415066/1885541.jpg" width="280"><br>
         Node JS Developer
     </h3>
 </a>
