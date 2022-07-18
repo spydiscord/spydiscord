@@ -1,26 +1,2 @@
-
-
-</a>
-    <h3 align="center">
-       
-        Node JS Developer
- 
-</a>
-
-
-Languages and Tools:
-<p align="center"> 
-    <a href="https://www.java.com" target="_blank"> 
-    <a href="https://reactjs.org/" target="_blank"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
- 
-</p>
-   
-
-Profile views: <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=spydiscord">
-</a>
-
+![](https://github-readme-stats.vercel.app/api?username=spydiscord&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spydiscord&show_icons=true&count_private=false)
