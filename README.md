@@ -8,7 +8,7 @@
 </a>
 
 
-## Languages and Tools:
+# Languages and Tools:
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> 
     <a href="https://reactjs.org/" target="_blank"> 
@@ -20,7 +20,7 @@
 </p>
    
 
-## Profile Views :
+# Profile Views :
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=spydiscord">
 </a>
