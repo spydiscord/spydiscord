@@ -1,10 +1,7 @@
-<p align="right"> <h3>Profile Views : </h3> <img src="https://komarev.com/ghpvc/?username=spydiscord&label=Profile%20views&color=0e75b6&style=flat"
-    alt="spydiscord"/> 
-  </p
 
 
 
-Languages and Tools:
+## Languages and Tools:
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> 
     <a href="https://reactjs.org/" target="_blank"> 
@@ -15,3 +12,8 @@ Languages and Tools:
  
 </p>
    
+
+        
+        <p align="right"> <h3>Profile Views : </h3> <img src="https://komarev.com/ghpvc/?username=spydiscord&label=Profile%20views&color=0e75b6&style=flat"
+    alt="spydiscord"/> 
+  </p
