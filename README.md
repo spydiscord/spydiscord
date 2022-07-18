@@ -14,5 +14,7 @@
    
 
 ## Profile Views :
-<p align="right"> <h3> </h3> <img src="https://komarev.com/ghpvc/?username=spydiscord&label=Profile%20views&color=0e75b6&style=flat"alt="spydiscord"/> </p
-</a> <a href="https://github.com/spydiscord?tab=followers"><img src="https://img.shields.io/github/followers/spydiscord?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=spydiscord">
+</a>
+<a href="https://github.com/spydiscord?tab=followers"><img src="https://img.shields.io/github/followers/spydiscord?label=Followers&style=social" alt="GitHub Badge"></a>
