@@ -1,6 +1,6 @@
 
 
-<a href="https://discord.gg/5dZPVytKnn">
+
     <h3 align="center">
        
         Node JS Developer
